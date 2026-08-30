@@ -81,18 +81,59 @@ Performed **Customer Segmentation using Python and K-Means Clustering** to ident
 
 ---
 
+### Assignment 3 – Predictive Analytics Using Historical Data
+
+Built a **Predictive Analytics and Sales Forecasting model using historical sales data** to analyze trends and forecast future sales.
+
+The project focuses on using regression models to understand historical sales patterns, evaluate predictive performance, and generate future sales forecasts.
+
+**Key areas covered:**
+
+* Data Cleaning & Preprocessing
+* Historical Sales Analysis
+* Exploratory Data Analysis
+* Sales Trend Analysis
+* Time-based Data Analysis
+* Linear Regression
+* Random Forest Regression
+* Model Comparison
+* MAE Evaluation
+* RMSE Evaluation
+* R² Score Evaluation
+* Actual vs Predicted Sales Analysis
+* Future Sales Forecasting
+* Prediction Visualization
+* Data-driven Insights
+
+**Models used:**
+
+* Linear Regression
+* Random Forest Regression
+
+**Technologies used:**
+
+* Python
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
+* Jupyter Notebook
+
+---
+
 ## 🛠️ Tools & Technologies
 
-| Tool                 | Purpose                               |
-| -------------------- | ------------------------------------- |
-| Microsoft Power BI   | Dashboard Development & Visualization |
-| DAX                  | Measures and Calculations             |
-| Microsoft Excel      | Data Preparation                      |
-| SQL                  | Data Analysis                         |
-| Python               | Data Analysis & Processing            |
-| Pandas & NumPy       | Data Manipulation                     |
-| Matplotlib & Seaborn | Data Visualization                    |
-| Scikit-learn         | Machine Learning & Clustering         |
+| Tool                 | Purpose                                         |
+| -------------------- | ----------------------------------------------- |
+| Microsoft Power BI   | Dashboard Development & Visualization           |
+| DAX                  | Measures and Calculations                       |
+| Microsoft Excel      | Data Preparation                                |
+| SQL                  | Data Analysis                                   |
+| Python               | Data Analysis, Processing & Predictive Modeling |
+| Pandas & NumPy       | Data Manipulation & Numerical Analysis          |
+| Matplotlib & Seaborn | Data Visualization                              |
+| Scikit-learn         | Machine Learning, Regression & Clustering       |
+| Jupyter Notebook     | Data Analysis & Model Development               |
 
 ---
 
@@ -100,10 +141,15 @@ Performed **Customer Segmentation using Python and K-Means Clustering** to ident
 
 * Data Cleaning & Preparation
 * Exploratory Data Analysis
+* Sales Analysis
 * Customer Segmentation
 * RFM Analysis
-* Machine Learning
+* Predictive Analytics
+* Sales Forecasting
+* Regression Modeling
 * K-Means Clustering
+* Model Evaluation
+* Trend Analysis
 * Data Visualization
 * Business Intelligence
 * KPI Development
@@ -117,7 +163,7 @@ Performed **Customer Segmentation using Python and K-Means Clustering** to ident
 
 ## 🎯 Objective
 
-The objective of this internship is to strengthen practical data analytics skills by working on real-world-style business problems and transforming raw data into meaningful insights that can support data-driven decision-making.
+The objective of this internship is to strengthen practical data analytics and machine learning skills by working on real-world-style business problems and transforming raw data into meaningful insights, predictive models, dashboards, and data-driven recommendations that can support better decision-making.
 
 ---
 
