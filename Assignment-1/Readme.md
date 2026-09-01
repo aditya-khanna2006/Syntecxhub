@@ -121,7 +121,7 @@ The dashboard is designed to help users identify:
 
 ## 👨‍💻 Internship
 
-**Organization:** Thiranex  
+**Organization:** Syntecxhub  
 **Role:** Data Analytics Intern  
 **Assignment:** 01 – Sales Analysis Dashboard
 
