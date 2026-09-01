@@ -1,169 +1,162 @@
-# Thiranex – Data Analytics Internship
+# Syntecxhub – Data Analysis Internship
 
-This repository contains the projects and assignments completed as part of my **Data Analytics Internship at Thiranex**.
+This repository contains the projects completed as part of my **Data Analysis Internship at Syntecxhub**.
 
-The internship focuses on applying data analytics concepts to practical business problems, including data analysis, customer analytics, predictive modeling, visualization, dashboard development, and deriving actionable insights from data.
+The internship focuses on applying data analysis concepts to practical business problems, including data cleaning, preprocessing, analysis, visualization, KPI development, and generating meaningful business insights.
 
 ---
 
 ## 📌 Internship Overview
 
-**Organization:** Thiranex
-**Role:** Data Analytics Intern
-**Domain:** Data Analytics & Business Intelligence
-**Tools:** Power BI, DAX, Excel, SQL, Python, Scikit-learn
+**Organization:** Syntecxhub
+**Domain:** Data Analysis
+**Role:** Data Analysis Intern
 
----
-
-## 📂 Assignments
-
-### Assignment 1 – Sales Analysis Dashboard
-
-Developed an interactive **Sales Analysis Dashboard using Microsoft Power BI** to analyze sales performance across different business dimensions.
-
-**Key areas covered:**
-
-* Sales Revenue Analysis
-* Profit Analysis
-* Order & Quantity Analysis
-* Customer Analysis
-* Category-wise Sales Performance
-* State-wise Revenue Analysis
-* City-wise Revenue Analysis
-* Revenue Trends
-* Interactive Filtering
-* Key Business Insights
-
-**Power BI features used:**
-
-* DAX Measures
-* Interactive Slicers
-* KPI Cards
-* Line Chart
-* Bar Charts
-* Donut Chart
-* India Map Visualization
-* Tables
-* Dynamic Business Insights
-
----
-
-### Assignment 2 – Customer Segmentation
-
-Performed **Customer Segmentation using Python and K-Means Clustering** to identify groups of customers based on their purchasing behavior.
-
-**Key areas covered:**
+### Internship Focus
 
 * Data Cleaning & Preprocessing
-* Customer-level Analysis
-* RFM Feature Engineering
-* Recency Analysis
-* Frequency Analysis
-* Monetary Analysis
-* Customer Spending Analysis
-* K-Means Clustering
-* Elbow Method
-* Silhouette Score
-* Customer Segment Profiling
-* Product Preference Analysis
-* Revenue Contribution Analysis
-* Business Recommendations
-
-**Technologies used:**
-
-* Python
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
-* Scikit-learn
-* Jupyter Notebook
-
----
-
-### Assignment 3 – Predictive Analytics Using Historical Data
-
-Built a **Predictive Analytics and Sales Forecasting model using historical sales data** to analyze trends and forecast future sales.
-
-The project focuses on using regression models to understand historical sales patterns, evaluate predictive performance, and generate future sales forecasts.
-
-**Key areas covered:**
-
-* Data Cleaning & Preprocessing
-* Historical Sales Analysis
 * Exploratory Data Analysis
-* Sales Trend Analysis
-* Time-based Data Analysis
-* Linear Regression
-* Random Forest Regression
-* Model Comparison
-* MAE Evaluation
-* RMSE Evaluation
-* R² Score Evaluation
-* Actual vs Predicted Sales Analysis
-* Future Sales Forecasting
-* Prediction Visualization
-* Data-driven Insights
+* Business Data Analysis
+* KPI Development
+* Data Visualization
+* Reporting
+* Business Insights
 
-**Models used:**
+---
 
-* Linear Regression
-* Random Forest Regression
+# 📂 Projects
 
-**Technologies used:**
+## Project 1 – Sales Performance Analysis
+
+Developed a **Sales Performance Analysis and automated reporting workflow** using Python, Jupyter Notebook, and Excel.
+
+The project focuses on cleaning raw sales data, identifying data-quality issues, performing sales analysis, calculating important KPIs, and generating automated reports.
+
+### 🎯 Objectives
+
+* Import and inspect raw sales data
+* Identify and handle missing values
+* Detect and remove duplicate records
+* Standardize inconsistent data
+* Clean invalid dates and numeric values
+* Analyze sales performance
+* Calculate important sales KPIs
+* Compare sales across regions and products
+* Analyze customer and monthly sales
+* Generate visual summaries
+* Generate an automated Excel report
+
+### 🧹 Data Cleaning Performed
+
+* Missing value handling
+* Duplicate detection and removal
+* Region name standardization
+* Product name standardization
+* Payment mode standardization
+* Invalid date handling
+* Numeric data conversion
+* Negative value validation
+* Data type correction
+
+### 📊 Analysis Performed
+
+* Total Sales
+* Total Orders
+* Total Quantity Sold
+* Average Sales
+* Region-wise Sales
+* Product-wise Sales
+* Customer-wise Sales
+* Monthly Sales
+
+### 📈 Visualizations
+
+* Sales by Region
+* Sales by Product
+* Monthly Sales Trend
+
+### 🛠️ Technologies Used
 
 * Python
+* Jupyter Notebook
 * Pandas
 * NumPy
 * Matplotlib
-* Scikit-learn
-* Jupyter Notebook
+* OpenPyXL
+* Microsoft Excel
+
+### 📁 Project Files
+
+| File                            | Description                        |
+| ------------------------------- | ---------------------------------- |
+| `Data_Cleaning_Reporting.ipynb` | Complete Python/Jupyter Notebook   |
+| `sales_data.xlsx`               | Raw sales dataset                  |
+| `automated_sales_report.xlsx`   | Cleaned data and generated reports |
 
 ---
 
-## 🛠️ Tools & Technologies
+# 🔄 Project Workflow
 
-| Tool                 | Purpose                                         |
-| -------------------- | ----------------------------------------------- |
-| Microsoft Power BI   | Dashboard Development & Visualization           |
-| DAX                  | Measures and Calculations                       |
-| Microsoft Excel      | Data Preparation                                |
-| SQL                  | Data Analysis                                   |
-| Python               | Data Analysis, Processing & Predictive Modeling |
-| Pandas & NumPy       | Data Manipulation & Numerical Analysis          |
-| Matplotlib & Seaborn | Data Visualization                              |
-| Scikit-learn         | Machine Learning, Regression & Clustering       |
-| Jupyter Notebook     | Data Analysis & Model Development               |
+```text
+Raw Sales Data
+      ↓
+Data Inspection
+      ↓
+Data Cleaning
+      ↓
+Missing Value Handling
+      ↓
+Duplicate Removal
+      ↓
+Data Standardization
+      ↓
+Date & Numeric Validation
+      ↓
+KPI Calculation
+      ↓
+Sales Analysis
+      ↓
+Visualization
+      ↓
+Automated Excel Report
+```
 
 ---
 
-## 📊 Skills Demonstrated
+# 📚 Skills Demonstrated
 
-* Data Cleaning & Preparation
+* Data Cleaning
+* Data Preprocessing
 * Exploratory Data Analysis
 * Sales Analysis
-* Customer Segmentation
-* RFM Analysis
-* Predictive Analytics
-* Sales Forecasting
-* Regression Modeling
-* K-Means Clustering
-* Model Evaluation
-* Trend Analysis
+* KPI Calculation
+* Data Validation
 * Data Visualization
-* Business Intelligence
-* KPI Development
-* DAX Calculations
-* Interactive Dashboard Design
-* Data-driven Insight Generation
-* Business Performance Analysis
-* Business Recommendations
+* Python Programming
+* Pandas
+* Excel Reporting
+* Business Data Analysis
+* Automated Reporting
 
 ---
 
-## 🎯 Objective
+# 🎯 Internship Objective
 
-The objective of this internship is to strengthen practical data analytics and machine learning skills by working on real-world-style business problems and transforming raw data into meaningful insights, predictive models, dashboards, and data-driven recommendations that can support better decision-making.
+The objective of this internship is to gain practical experience in data analysis by working with real-world-style datasets and applying data cleaning, analysis, visualization, and reporting techniques to generate meaningful business insights.
+
+---
+
+# 🚀 Future Scope
+
+Future projects can include:
+
+* Interactive Power BI dashboards
+* Advanced sales analysis
+* Predictive analytics
+* Customer segmentation
+* SQL-based data analysis
+* Automated data pipelines
+* Advanced business intelligence reporting
 
 ---
 
@@ -171,7 +164,7 @@ The objective of this internship is to strengthen practical data analytics and m
 
 **Aditya Khanna**
 
-BCA | Data Analytics Enthusiast
+**BCA | Data Analytics Enthusiast**
 
 * GitHub: [Aditya Khanna](https://github.com/aditya-khanna2006)
 * LinkedIn: [Aditya Khanna](https://www.linkedin.com/)
