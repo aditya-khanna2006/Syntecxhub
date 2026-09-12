@@ -2,15 +2,15 @@
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![DAX](https://img.shields.io/badge/DAX-Data%20Analysis-blue)
-![Internship](https://img.shields.io/badge/Internship-Thiranex-green)
+![Internship](https://img.shields.io/badge/Internship-Syntecxhub-green)
 
 ## 📌 Overview
 
-This project was developed as **Assignment 1** during my **Data Analytics Internship at Thiranex**.
+This project was developed as **Assignment 1** during my **Data Analytics Internship at Syntecxhub**.
 
-The objective of this assignment was to transform sales data into an interactive and visually engaging **Sales Analysis Dashboard using Microsoft Power BI**.
+The objective of this assignment was to transform raw sales data into an interactive and visually engaging **Sales Analysis Dashboard using Microsoft Power BI**.
 
-The dashboard provides a consolidated view of sales performance and enables users to explore business performance across different categories, states, cities, and selected time periods.
+The dashboard provides a consolidated view of sales performance and enables users to analyze business performance across different categories, locations, customers, and selected time periods.
 
 ---
 
@@ -57,7 +57,7 @@ The dashboard includes the following key performance indicators:
 - 🍩 Revenue by Category
 - 📊 Sales by Category
 - 🏆 Top 5 States by Revenue
-- 🇮🇳 State-wise Revenue Map
+- 🗺️ State-wise Revenue Map
 - 🏙️ Top 5 Cities by Revenue
 - 📋 Sales Summary
 - 💡 Key Business Insights
@@ -72,27 +72,27 @@ Users can dynamically filter the dashboard using:
 - 📍 State
 - 🏙️ City
 
-All major visualizations and KPIs respond dynamically to the selected filters.
+All major visualizations and KPI cards respond dynamically to the selected filters.
 
 ---
 
 ## 📷 Dashboard Preview
 
-<img width="1327" height="742" alt="Screenshot 2026-08-11 165021" src="https://github.com/user-attachments/assets/6acfb0f6-5c71-4dfe-8f1b-43a818472adc" />
-
+<img width="1327" height="742" alt="Sales Analysis Dashboard" src="https://github.com/user-attachments/assets/6acfb0f6-5c71-4dfe-8f1b-43a818472adc" />
 
 ---
 
 ## 📈 Key Insights
 
-The dashboard is designed to help users identify:
+The dashboard helps users identify and analyze:
 
 - Highest-performing states and cities
 - Category-wise revenue contribution
 - Revenue trends over time
 - Overall profitability
 - Order and customer performance
-- Business performance based on selected filters
+- Business performance across different locations
+- Changes in performance based on selected filters
 
 ---
 
